@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1728657536 source:d:\2311104053_marvel sanjaya setiawan\03_abstract_data_type\unguided\main.cpp
+	<iostream>
+
+1728657016 d:\2311104053_marvel sanjaya setiawan\03_abstract_data_type\unguided\pelajaran.h
+	<string>
+
+1728657440 d:\2311104053_marvel sanjaya setiawan\03_abstract_data_type\unguided\pelajaran.cpp
+	"pelajaran.h"
+
